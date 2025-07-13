@@ -1,5 +1,4 @@
 # OSP-Sales-Split-Analyzer-and-Final-Location-Generator
-# 📊 OSP Sales Split Analyzer + Final Location Generator
 
 This Streamlit app helps you analyze and visualize the OSP final location allocations and how customer sales were split across them.
 
